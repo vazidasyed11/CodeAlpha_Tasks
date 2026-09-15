@@ -5,7 +5,7 @@ This repository contains my completed projects as part of the CodeAlpha Internsh
 ## 📌 Tasks Completed
 
 ### Task 2 – Exploratory Data Analysis
-Performed Exploratory Data Analysis on the Titanic dataset using Python.
+Performed Exploratory Data Analysis the dataset contains information about 20 students.using Python.
 The project includes data cleaning, statistical analysis, visualization,
 outlier detection, relationship analysis, and key insights.
 
